@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Olá meu nome é Rianderson
 
 
@@ -9,6 +8,5 @@ Olá meu nome é Rianderson
 
 
 Victor Alexis
-=======
 estas são as modificações de Leandro
->>>>>>> origin/leandro
+Lidiano Felicio
